@@ -53,6 +53,28 @@
 
   <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/YuCloth_QRSDetector/readme_10.png" align="middle"
   alt="Yutech logo" width="900" height=""></code>
+  
+
+### **2. Open YuCloth QRS Complex Detector**
+
+  <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/YuCloth_QRSDetector/readme_11.png" align="middle"
+  alt="Yutech logo" width="900" height=""></code>
+  
+### **3. Load ECG Data (MAT-files are acceptable in current version)**
+
+3.1
+
+  <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/YuCloth_QRSDetector/readme_12.png" align="middle"
+  alt="Yutech logo" width="900" height=""></code>
+
+3.2 If the format of input data is correct, the input data will be plotted in the above part of the figure.
+
+  <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/YuCloth_QRSDetector/readme_13.png" align="middle"
+  alt="Yutech logo" width="900" height=""></code>
+  
+  
+  <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/YuCloth_QRSDetector/readme_14.png" align="middle"
+  alt="Yutech logo" width="900" height=""></code>
 
 
   
