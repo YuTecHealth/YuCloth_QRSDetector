@@ -36,4 +36,23 @@
 
   <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/YuCloth_QRSDetector/readme_7.png" align="middle"
   alt="Yutech logo" width="900" height=""></code>
+
+1.2	If you have matlab 2019 above, please install application by the following step.
+
+1.2.1 
+
+  <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/YuCloth_QRSDetector/readme_8.png" align="middle"
+  alt="Yutech logo" width="900" height=""></code>
+  
+1.2.2
+
+  <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/YuCloth_QRSDetector/readme_9.png" align="middle"
+  alt="Yutech logo" width="900" height=""></code>
+  
+1.2.3 Open your Matlab, and open the APP
+
+  <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/YuCloth_QRSDetector/readme_10.png" align="middle"
+  alt="Yutech logo" width="900" height=""></code>
+
+
   
