@@ -1,6 +1,6 @@
 ## How to use YuCloth QRSDetector ? Just follow the steps below !!!!!
 
-**(Quick Link)**
+**(Quick Link)** [Step 1.](https://github.com/YuTecHealth/YuCloth_QRSDetector#step-1-install-the-matlab-apps-or-standalone-desktop-application) [Step 2.](https://github.com/YuTecHealth/YuCloth_QRSDetector#step-2-open-yucloth-qrs-complex-detector)
 
 ### **Step 1. Install the Matlab apps or standalone desktop application**
 
