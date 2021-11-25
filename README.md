@@ -74,9 +74,19 @@
   <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/YuCloth_QRSDetector/readme_13.png" align="middle"
   alt="Yutech logo" width="900" height=""></code>
   
-  
+### **Step 4. Set the Sampling frequency (The acceptable range is 101Hz~999Hz) (Default value: 360 Hz))**
+
   <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/YuCloth_QRSDetector/readme_14.png" align="middle"
   alt="Yutech logo" width="900" height=""></code>
 
+### **Step 5. Analyze ECG data**
 
-  
+5.1 Select **Analysis**.
+
+  <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/YuCloth_QRSDetector/readme_15.png" align="middle"
+  alt="Yutech logo" width="900" height=""></code>
+
+5.2 Result.
+
+  <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/YuCloth_QRSDetector/readme_16.png" align="middle"
+  alt="Yutech logo" width="900" height=""></code>
