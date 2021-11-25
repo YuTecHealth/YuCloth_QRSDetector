@@ -59,12 +59,12 @@
   alt="Yutech logo" width="900" height=""></code>
   
 
-### **Step 2. Open YuCloth QRS Complex Detector** [Return top](https://github.com/YuTecHealth/YuCloth_QRSDetector#how-to-use-yucloth-qrsdetector--just-follow-the-steps-below-)
+### **Step 2. Open YuCloth QRS Complex Detector.** [Return top](https://github.com/YuTecHealth/YuCloth_QRSDetector#how-to-use-yucloth-qrsdetector--just-follow-the-steps-below-)
 
   <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/YuCloth_QRSDetector/readme_11.png" align="middle"
   alt="Yutech logo" width="900" height=""></code>
   
-### **Step 3. Load ECG Data (MAT-files are acceptable in current version)** [Return top](https://github.com/YuTecHealth/YuCloth_QRSDetector#how-to-use-yucloth-qrsdetector--just-follow-the-steps-below-)
+### **Step 3. Load ECG Data. (MAT-files are acceptable in current version)** [Return top](https://github.com/YuTecHealth/YuCloth_QRSDetector#how-to-use-yucloth-qrsdetector--just-follow-the-steps-below-)
 
 3.1 Select **Load Data** and choose dataset.
 
@@ -76,12 +76,12 @@
   <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/YuCloth_QRSDetector/readme_13.png" align="middle"
   alt="Yutech logo" width="900" height=""></code>
   
-### **Step 4. Set the Sampling frequency (The acceptable range is 101Hz~999Hz) (Default value: 360 Hz))** [Return top](https://github.com/YuTecHealth/YuCloth_QRSDetector#how-to-use-yucloth-qrsdetector--just-follow-the-steps-below-)
+### **Step 4. Set the Sampling frequency. (The acceptable range is 101Hz~999Hz) (Default value: 360 Hz))** [Return top](https://github.com/YuTecHealth/YuCloth_QRSDetector#how-to-use-yucloth-qrsdetector--just-follow-the-steps-below-)
 
   <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/YuCloth_QRSDetector/readme_14.png" align="middle"
   alt="Yutech logo" width="900" height=""></code>
 
-### **Step 5. Analyze ECG data** [Return top](https://github.com/YuTecHealth/YuCloth_QRSDetector#how-to-use-yucloth-qrsdetector--just-follow-the-steps-below-)
+### **Step 5. Analyze ECG data.** [Return top](https://github.com/YuTecHealth/YuCloth_QRSDetector#how-to-use-yucloth-qrsdetector--just-follow-the-steps-below-)
 
 5.1 Select **Analysis**.
 
@@ -93,7 +93,7 @@
   <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/YuCloth_QRSDetector/readme_16.png" align="middle"
   alt="Yutech logo" width="900" height=""></code>
   
-### **Step 6. Output the Analysis Result to Matlab Workspace** [Return top](https://github.com/YuTecHealth/YuCloth_QRSDetector#how-to-use-yucloth-qrsdetector--just-follow-the-steps-below-)
+### **Step 6. Output the Analysis Result to Matlab Workspace.** [Return top](https://github.com/YuTecHealth/YuCloth_QRSDetector#how-to-use-yucloth-qrsdetector--just-follow-the-steps-below-)
 
 6.1 Select **Save Data**.
 
