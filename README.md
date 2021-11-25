@@ -1,6 +1,6 @@
 ## How to use YuCloth QRSDetector ? Just follow the steps below !!!!!
 
-### **1. Install the Matlab apps or standalone desktop application**
+### **Step 1. Install the Matlab apps or standalone desktop application**
 
   <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/YuCloth_QRSDetector/readme_1.png" align="middle"
   alt="Yutech logo" width="900" height=""></code>
@@ -55,14 +55,14 @@
   alt="Yutech logo" width="900" height=""></code>
   
 
-### **2. Open YuCloth QRS Complex Detector**
+### **Step 2. Open YuCloth QRS Complex Detector**
 
   <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/YuCloth_QRSDetector/readme_11.png" align="middle"
   alt="Yutech logo" width="900" height=""></code>
   
-### **3. Load ECG Data (MAT-files are acceptable in current version)**
+### **Step 3. Load ECG Data (MAT-files are acceptable in current version)**
 
-3.1
+3.1 Select **Load Data** and choose dataset.
 
   <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/YuCloth_QRSDetector/readme_12.png" align="middle"
   alt="Yutech logo" width="900" height=""></code>
