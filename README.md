@@ -90,3 +90,16 @@
 
   <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/YuCloth_QRSDetector/readme_16.png" align="middle"
   alt="Yutech logo" width="900" height=""></code>
+  
+### **Step 6. Output the Analysis Result to Matlab Workspace** [Return top](https://github.com/YuTecHealth/YuCloth_QRSDetector#how-to-use-yucloth-qrsdetector--just-follow-the-steps-below-)
+
+6.1 Select **Save Data**.
+
+  <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/YuCloth_QRSDetector/readme_17.png" align="middle"
+  alt="Yutech logo" width="900" height=""></code>
+
+6.2 And the detail of analysis result data will show on the Matlab's workspace.
+
+  <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/YuCloth_QRSDetector/readme_18.png" align="middle"
+  alt="Yutech logo" width="900" height=""></code>
+  
